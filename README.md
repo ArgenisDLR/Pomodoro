@@ -4,4 +4,4 @@ A pomodoro app for enhancing productivity
 
 ## Sample project 
 
-![](images/RPReplay_Final1559769163.MP4)
+![](images/383c90.gif)
